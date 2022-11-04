@@ -139,7 +139,6 @@ body {
 .rodape-imagem {
     height: 100px;
     display: block;
-    margin: 10%;
-    align-items: center;
+    margin: 0 auto;
 
 }
