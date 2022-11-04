@@ -45,6 +45,11 @@ body {
     font-size: 18px;
 }
 
+.cabecalho-menu-item:hover {
+    color: rgb(71, 70, 70);
+
+}
+
 /*main*/
 
 .conteudo {
