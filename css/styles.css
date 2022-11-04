@@ -47,6 +47,7 @@ body {
 
 .cabecalho-menu-item:hover {
     color: rgb(71, 70, 70);
+    cursor: pointer;
 
 }
 
@@ -100,6 +101,7 @@ body {
 
 .conteudo-principal-escrito-botao:hover{
     background-color:rgb(117, 117, 117);
+    cursor: pointer;
 }
 
 .conteudo-principal-imagem {
