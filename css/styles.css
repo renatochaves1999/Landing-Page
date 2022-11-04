@@ -108,6 +108,10 @@ body {
     height: 430px;
 }
 
+.conteudo-principal-imagem:hover {
+    color:rgba(red,  blue)
+}
+
 /*section*/
 
 .conteudo-secundario {
