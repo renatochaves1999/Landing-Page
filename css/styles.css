@@ -33,10 +33,6 @@ body {
     height: 72px;
 }
 
-.cabecalho-imagem:hover {
-    height: 52px;
-}
-
 .cabecalho-menu {
     display: flex;
     gap: 32px;
@@ -111,6 +107,10 @@ body {
 .conteudo-principal-imagem {
     height: 430px;
 }
+
+.conteudo-principal-imagem:hover{
+    height: 230px;
+
 
 
 
